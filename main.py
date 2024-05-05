@@ -30,5 +30,5 @@ async def on_message(message):
     # Respond with "Hello!" whenever any message is sent
     await message.channel.send(quote)
 
-
-client.run("MTIzNTk0NDc3OTgxMzIyNDU4MQ.GuYX_x.JbyScCXDBappWj7jVx5PzwV6ye2XeP14aR01VA")
+# Enter the discord bot key below
+client.run("")
